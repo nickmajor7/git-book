@@ -14,20 +14,20 @@ description: your turn
 
 ## 獲得一金
 
-![](<.gitbook/assets/image (18).png>)
+![](<.gitbook/assets/image (18) (1).png>)
 
 如果手牌什麼事都做不了，可以選擇棄掉一張手牌來從供應堆中獲得一份黃金。棄掉的牌在這遊戲中都不會再被用到。
 
 ## 選擇一個行動
 
-![](<.gitbook/assets/image (7).png>)
+![](<.gitbook/assets/image (7) (1).png>)
 
 玩家從手牌打出一張政治卡來執行一個可執行的行動 1 \~ 4 。
 
 #### 打任意種類卡到職務板塊（玩家個人板塊）上：
 
 1. [販售貨物](hang-dong-1-chu-shou-huo-wu.md)
-2. [與貴族交易](hang-dong-2-yu-gui-zu-jiao-yi.md)
+2. [與貴族交易](hang-dong-2-yu-gui-zu-jiao-yi-guo-jia-hang-dong.md)
 
 #### 打到宮廷中：
 
@@ -63,3 +63,4 @@ _加入更多的政治卡到你的投資組合來壯大你的事業，增加更�
 
 * 如果投資組合已經達到上限了，要先棄掉一張已存在的卡片。
 * 如果要棄掉船來插入貴族卡，同時也要棄掉碼頭上對應的貨物。
+

@@ -1,10 +1,10 @@
 ---
-description: 與貴族交易
+description: 國家行動與貴族交易
 ---
 
-# 行動 2：與貴族交易
+# 行動 2：與貴族交易(國家行動)
 
-![trade with nobles](<.gitbook/assets/image (2).png>)
+![trade with nobles](<.gitbook/assets/image (2) (1).png>)
 
 當你選擇這個行動，你**最多可做兩次**交易，每次交易依序：
 
@@ -27,20 +27,24 @@ description: 與貴族交易
 
 ### 得到一個重建計畫
 
-![Acquire a Plan](<.gitbook/assets/image (33).png>)
+![Acquire a Plan](<.gitbook/assets/image (33) (1).png>)
 
 1. 從遊戲圖版上獲得兩個建築師之一的建設計畫板塊。_兩個建築師沒有分別，主要是對應歷史上的兩個有貢獻的建築師。_
 2. 放到玩家圖板上的對應位置。玩家可以持有任意數量的建設計畫板塊。
 
-![](<.gitbook/assets/image (34).png>)
+![](<.gitbook/assets/image (34) (1).png>)
 
 ## 總理大臣的行動
 
 ### 建造船隻
 
-![build a ship](<.gitbook/assets/image (15).png>)
+![build a ship](<.gitbook/assets/image (15) (1).png>)
 
-1. 根據圖版上船隻需求的表不同類型的貨物，**種類的數量**等於對應船艙的大小。如果是升級船隻只需要船艙容量差距的不同種類數量貨物。
+1.  建造船隻只能選擇可以看到的船隻卡（_最上面一張_），
+
+    根據圖版上船隻需求的表支付不同種類的貨物，**種類的數量**等於對應船艙的大小。
+
+    如果是升級船隻只需要船艙容量差距的不同種類數量貨物。
 2. 選擇投資組合上方的卡槽。如果超過容量上限則可以棄掉該格的卡。
 3. 提升國庫一個等級。_因為新的船隻可以帶來更多貿易增加國家的收入_
 4. 獲得投資組合中上方卡片上緣累積的影響力（**包含剛建造的船隻卡**）。
@@ -88,13 +92,13 @@ _在這個時期教會透過基督教有著很大的勢力，這對總理大臣�
 
 #### 主教的移動
 
-![](<.gitbook/assets/image (17).png>)
+![](<.gitbook/assets/image (17) (1).png>)
 
 除了國王的國家行動以外，政治卡的獎勵或者建造地的獎勵也可能提供會晤主教的行動。如果只有一個箭頭的話，就只能移動主教一格。
 
 ### 獲得皇室恩惠
 
-![Get a Royal Favor](<.gitbook/assets/image (10).png>)
+![Get a Royal Favor](<.gitbook/assets/image (10) (1).png>)
 
 每一個皇室恩惠板塊都對應一位貴族，可以提供一次額外的行動跟隨拜訪該貴族在其他玩家的回合。
 

@@ -6,7 +6,7 @@ description: INFLUENCE
 
 ## 獲得影響力
 
-![獲得影響力的圖示](<.gitbook/assets/image (8).png>)
+![獲得影響力的圖示](<.gitbook/assets/image (8) (1).png>)
 
 在任何時候玩家獲得影響力，都立刻獲得投資組合上方卡片上緣的影響力總和。（包含貴族卡和船隻卡）
 
