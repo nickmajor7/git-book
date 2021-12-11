@@ -14,3 +14,4 @@
 * [回合結束整備](hui-he-jie-shu-zheng-bei.md)
 * [時代終結](shi-dai-zhong-jie.md)
 * [遊戲結束與計分](you-xi-jie-shu-yu-ji-fen.md)
+* [拓荒玩錯的部分](tuo-huang-wan-cuo-de-bu-fen.md)
